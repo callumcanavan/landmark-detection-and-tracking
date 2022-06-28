@@ -6,7 +6,7 @@ A comparison between actual and predicted robot/landmark positions (after 50 sim
 
 <img src="https://github.com/callumcanavan/landmark-detection-and-tracking/blob/master/images/example.png" alt="drawing" width="450"/>
 
-This project was completed as part of the Udacity Computer Vision nanodegree which provided the blank notebooks and several other functionalities. Algorithm implementations and experiments with parameters/inputs were completed by myself.
+I completed this project as part of the Udacity Computer Vision nanodegree which provided the blank notebooks and several other functionalities. Algorithm implementations and experiments with parameters/inputs were completed by myself.
 
 # Depends
 ```
